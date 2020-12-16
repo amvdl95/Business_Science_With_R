@@ -1,2 +1,3 @@
 # Business_Science_With_R
-Curso de Business Science de Matt Dancho
+
+En este archivo se trabajará con el proyecto de Attrition correspndiente al curso de Bussiness Science de Matt Dancho.
